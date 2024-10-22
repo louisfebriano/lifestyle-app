@@ -1,0 +1,13 @@
+.navbar {
+    margin: 2px;
+    font-size: 20px;
+}
+.navbar-brand{
+    font-weight: 700;
+}
+.nav-item{
+    margin: 10px;
+}
+.subs-btn {
+    border-radius: 6px;
+}
